@@ -19,4 +19,5 @@ Usage:
 Notes:
 * Program must run as administrator to work properly.
 * Due to a weird bug, i had to disable the left click fix from working inside the program itself, this applies only to the left click fix.
+* When starting the program for the first time, two files will be created: Settings.ini & Custom_Keys.txt
 * You can edit Custom_Keys.txt file to add / delete keys.
