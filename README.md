@@ -1,5 +1,5 @@
-Double click repair tool
-Copyright(c) 2019
+*Double click repair tool
+*Copyright(c) 2019
 Author:         Khalid Fawzy
 E-Mail:         Khalid.Fawzy@yahoo.com
 Created Using:  AutoHotkey
