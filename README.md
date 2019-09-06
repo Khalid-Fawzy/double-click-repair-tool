@@ -8,7 +8,8 @@ E-Mail:         Khalid.Fawzy@yahoo.com
 
 Created Using:  AutoHotkey
 
-Double click repair tool is a simple program that will help eliminate extra clicks on a faulty mouse button by specifying minimum time in milliseconds between each click.
+Description:
+* Double click repair tool is a simple program that will help eliminate extra clicks on a faulty mouse button by specifying minimum time in milliseconds between each click.
 
 Usage:
 * Select the button/s you want to fix.
