@@ -1,4 +1,4 @@
-# [Download latest version](https://github.com/Khalid-Fawzy/double-click-repair-tool/releases).
+# [Download latest version](https://github.com/Khalid-Fawzy/double-click-repair-tool/releases)
 Double click repair tool
 
 Copyright(c) 2019
