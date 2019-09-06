@@ -7,11 +7,11 @@ Created Using:  AutoHotkey
 Double click repair tool is a simple program that will help eliminate extra clicks on a faulty mouse button by specifying minimum time in milliseconds between each click.
 
 Usage:
-1. Select the button/s you want to fix.
-2. Adjust the time to your liking "100ms is the average".
-3. Special keys are the extra macro keys in the mouse, to fix one of them, select from the drop down list the function it is currently mapped to "usually browser back & forward or volume up & down".
+1- Select the button/s you want to fix.
+2- Adjust the time to your liking "100ms is the average".
+3- Special keys are the extra macro keys in the mouse, to fix one of them, select from the drop down list the function it is currently mapped to "usually browser back & forward or volume up & down".
 
 Notes:
--Program must run as administrator to work properly.
--Due to a weird bug, i had to disable the left click fix from working inside the program itself, this applies only to the left click fix.
--You can edit Custom_Keys.txt file to add / delete keys.
+1- Program must run as administrator to work properly.
+2- Due to a weird bug, i had to disable the left click fix from working inside the program itself, this applies only to the left click fix.
+3- You can edit Custom_Keys.txt file to add / delete keys.
